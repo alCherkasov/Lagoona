@@ -5,5 +5,6 @@
 - SCSS,
 - Gulp,
 - JS
+- БЭМ
 
 [Смотреть демо](https://alcherkasov.github.io/Lagoona/)
